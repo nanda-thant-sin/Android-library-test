@@ -1,0 +1,2 @@
+include ':app', ':dialogboxlibrary'
+rootProject.name='Dialog Box Example'
